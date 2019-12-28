@@ -12,5 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 ## TODO
 
-Environmentals in docker file, backend is hardcoded now
+Environmentals in docker file
+backend is hardcoded now
 pm2 in dockerfile instead of npm start
